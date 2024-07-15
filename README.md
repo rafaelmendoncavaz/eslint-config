@@ -1,1 +1,1 @@
-# Creating a new ESLint configuration
+# Creating a new ESLint configuration (incomplete)
